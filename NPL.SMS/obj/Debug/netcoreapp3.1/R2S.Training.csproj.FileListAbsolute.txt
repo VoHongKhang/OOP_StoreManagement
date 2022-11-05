@@ -1,0 +1,62 @@
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.AssemblyReference.cache
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfoInputs.cache
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfo.cs
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.CoreCompileInputs.cache
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.exe
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.deps.json
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.json
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.dev.json
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.CopyComplete
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\ngoqu\OneDrive\Máy tính\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.genruntimeconfig.cache
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.exe
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.deps.json
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.json
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.dev.json
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfo.cs
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\admin\Desktop\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.genruntimeconfig.cache
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.exe
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.deps.json
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.json
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.runtimeconfig.dev.json
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.AssemblyInfo.cs
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.csproj.CopyComplete
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.dll
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.pdb
+C:\Users\pc\Downloads\NPL.SMS\NPL.SMS\obj\Debug\netcoreapp3.1\R2S.Training.genruntimeconfig.cache
